@@ -1,5 +1,5 @@
 
-# Visual Computing Coursework
+# CTHead Scan
 
 Permission given by lecturer Professor Mark Jones to make this repository public.
 
